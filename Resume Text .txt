@@ -1,0 +1,98 @@
+Daniel Bemsen
+Software Developer
+
+Abuja
++2347037030402
+
+From the moment I produced my first “Hello World” application in the console, I knew I was hooked into the world of development. I thought   myself how to code from courses online, being a developer is not just a job to me, it’s an offered and engaging challenge to continually learn and   improve my skills in creating high-quality apps. What started with a simple “Hello World” has become a full-fledged passion that only gets more exciting every day. Below you’ll find projects I have completed that showcase my skills and general background in developing apps and websites.
+
+PERSONAL INFORMATION
+  Address: No 3 Akure Shar Street, Abuja, 900271
+  Nationality: Nigerian
+  Driving License: 
+  Hobbies: 
+
+SOCIAL PROFILES
+  * Github: https://github.com/augustbemsen
+  * Twitter: https://twitter.com/dani_reptor
+  * Linkedin: https://www.linkedin.com/in/daniel-bemsen-960b60171/
+
+SKILLS
+  ★★★★★ Git
+  ★★★★☆ JavaScript
+  ★★★★☆ React
+  ★★★★★ HTML
+  ★★★★★ CSS
+  ★★★★☆ EJS
+  ★★★★★ Bootstrap 4
+  ★★★★★ jQuery
+  ★★★☆☆ Node.js
+  ★★★☆☆ Express.js
+
+WORK EXPERIENCE
+  * October 2020 – December 2020
+    Mentor at SideHustle Internships, Remote
+      
+Served as a facilitator for problem-solving and peaceful resolutions. Mentor other Junior Developers on the Basic of Web Development.
+Built and Manage a Slack Bot for managing the Large Slack workspace which made the internship flow smoothly.
+
+  * August 2020 – October 2020
+    FrontEnd at BuildForSDG, Remote
+      Lead the Frontend team during Facebook and Andela's Build for SDG Challenge to come up with a web app for the challenge.
+https://repify.herokuapp.com/
+
+  * October 2018 – April 2019
+    Network Admistrator Intern at Nigerian Television Authority Makurdi, Makurdi
+      Worked the Engineering Team at NTA Makurdi to configure cisco switches and routers and maintain the stations network.
+
+
+EDUCATION
+  * January 2018 – March 2020
+    The Federal Polytechnic Bida, Niger State National Diploma Computer Science
+
+    Acquired a two year National Diploma in computer science, and graduated with a CGPA of 3.4
+
+INTERNSHIPS
+  * June 2020 – August 2020
+    FrontEnd Developer at HNG Interships, Remote
+
+    Worked with Teams to build projects. Also served as both a Team Lead and a Project Manager.
+  * July 2020 – November 2020
+    FrontEnd Developer at FaceBook Developers Circle, Abuja
+
+    .
+Collaborated on high priority porjects with tact and a strong attention to detail.
+
+COURSES
+  * 2020
+    Complete React Guide, Udemy
+  * 2020
+    FullStack Web Development, Udemy
+  * 2020
+    Web Design and Development, Udemy
+
+REFERENCES
+  * Engr. Sylvester Ime  from NTA Makurdi
+    sesughime@gmail.com
+    +2347032423536 	
+  * Engr. Terwase Akosu  from Kenti Technical Ltd
+    terwaseakosu1@gmail.com
+    +2348034517019
+
+PROJECTS
+  * iCook, , 
+
+    iCook is a Mobile first web application, built with React.Js. Users can search for recipes and the app makes a query to an Api and returns ingredients and steps on how to cook them.
+Live Link : https://github.com/AugustBemsen/icook
+  * Slack Bot, , 
+
+    Built a Slack Bot that using the slack API and JavaScript to help manage a large Slack workspace of over 4000 interns. The bot promotes interns from one channel to another, and also deactivate those who did not pass their test.
+Source Code :  https://github.com/AugustBemsen/SlackBot
+  * iNotes, , 
+
+    iNotes is a web application built with React.js. Its a simple notes ToDo List app. I built iCook to help me list out things i plan to do for the day so i wont forget them.
+Live Link : https://codesandbox.io/s/github/AugustBemsen/react-ToDo-List
+  * iQuiz, , 
+
+    iQuiz is a quiz web application that give user a multi-choice questions and answer to play with just for fun. It also save the high scores to Local Storage in the users browser and display them to the user on the HighScore page.
+Live Link : augustbemsen.github.io/funquizapp/
